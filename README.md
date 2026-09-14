@@ -4,3 +4,4 @@ simplistic
 
 available
 balance
+availabilty
